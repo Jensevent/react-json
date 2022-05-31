@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1",
+        "title": "Voetbaltoernooi",
+        "description": "We willen een voetbaltoernooi houden op het voetbalveld Binnendijk",
+        "datecreated": "30-05-2022T20:34:33:000Z",
+        "dateevent": "02-06-2022T13:00:00:000Z",
+        "adress": {
+            "street": "Binnendijk",
+            "province": "Flevoland",
+            "city": "Lelystad",
+            "country": "Netherlands"            
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "Ukrainian",
+            "English"
+        ],
+        "source": "Facebook"
+    },
+    {
+        "id": "2",
+        "title": "Jaarmarkt",
+        "description": "De Lelystad Jaarmarkt",
+        "datecreated": "31-05-2022T12:45:15:013Z",
+        "dateevent": "15-06-2022T10:00:00:000Z",
+        "adress": {
+            "street": "Agoraweg",
+            "province": "Flevoland",
+            "city": "Lelystad",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "English"
+        ],
+        "source": "VisitFlevoland"
+    },
+    {
+        "id": "3",
+        "title": "Boekenclub",
+        "description": "Boekenclub bij Annette thuis",
+        "datecreated": "01-06-2022T10:00:34:011Z",
+        "dateevent": "08-06-2022T13:00:00:000Z",
+        "adress": {
+            "street": "Binnendijk",
+            "province": "Flevoland",
+            "city": "Lelystad",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "English"
+        ],
+        "source": "VisitFlevoland"
+    },
+    {
+        "id": "4",
+        "title": "Ukraine fundraiser",
+        "description": "Een fundraiser waar kinderen rondjes rondom de haven van Zeewolde lopen",
+        "datecreated": "31-05-2022T17:04:15:011Z",
+        "dateevent": "02-06-2022T13:00:00:000Z",
+        "adress": {
+            "street": "Pluuthaven",
+            "province": "Flevoland",
+            "city": "Zeewolde",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "Ukrainian",
+            "English",
+            "Chinese"
+        ],
+        "source": "Facebook"
+    },
+    {
+        "id": "5",
+        "title": "Foodtruck market",
+        "description": "Er komen verschillende foodtrucks samen die eten laten proeven van allerlei verschillende culturen",
+        "datecreated": "29-05-2022T14:23:12:033Z",
+        "dateevent": "22-06-2022T12:00:00:000Z",
+        "adress": {
+            "street": "Lissabonhof",
+            "province": "Flevoland",
+            "city": "Almere",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "Ukrainian",
+            "English"
+        ],
+        "source": "Uitzinnig"
+    },
+    {
+        "id": "6",
+        "title": "Rommelmarkt",
+        "description": "De jaarlijkse Drontse rommelmarkt wordt gehouden op de weekmarkt in Dronten, kom kijken of regel zelf een sta plaats om van je oude spul nieuw geld te maken",
+        "datecreated": "25-05-2022T11:44:12:023Z",
+        "dateevent": "21-07-2022T10:00:00:000Z",
+        "adress": {
+            "street": "De Rede",
+            "province": "Flevoland",
+            "city": "Dronten",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "English"
+        ],
+        "source": "VisitFlevoland"
+    },
+    {
+        "id": "7",
+        "title": "Zwemmen voor goed doel",
+        "description": "Er is een zwem wedstrijd om geld in te zamelen voor het rode kruis",
+        "datecreated": "21-05-2022T11:22:11:011Z",
+        "dateevent": "28-06-2022T10:00:00:000Z",
+        "adress": {
+            "street": "Philipsdaalder",
+            "province": "Flevoland",
+            "city": "Dronten",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "Ukrainian",
+            "English",
+            "Chinese",
+            "Japanese"
+        ],
+        "source": "Facebook"
+    },
+    {
+        "id": "8",
+        "title": "Drink wedstrijd Albert Heijn",
+        "description": "Wie als eerste een krat Grolsh kan drinken en rondom de Albert Heijn in Dronten West kan lopen",
+        "datecreated": "01-06-2022T09:02:02:001Z",
+        "dateevent": "15-06-2022T20:00:00:000Z",
+        "adress": {
+            "street": "Koopmanbeurs",
+            "province": "Flevoland",
+            "city": "Dronten",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "English"
+        ],
+        "source": "Facebook"
+    },
+    {
+        "id": "9",
+        "title": "Codeer lessen in het buurthuis de Bever",
+        "description": "In het lokale buurthuis willen we een simpele introductie les geven in coderen, iedereen is welkom",
+        "datecreated": "15-05-2022T12:12:12:022Z",
+        "dateevent": "28-07-2022T18:00:00:000Z",
+        "adress": {
+            "street": "Voorstraat",
+            "province": "Flevoland",
+            "city": "Lelystad",
+            "country": "Netherlands"
+        },
+        "ages": null,
+        "languages": [
+            "Dutch",
+            "Ukrainian",
+            "English",
+            "Chinese",
+            "Japanese"
+        ],
+        "source": "Facebook"
+    }
+]
